@@ -1,0 +1,13 @@
+# .aliases
+
+# ls
+alias ls="ls --color=auto --group-directories-first"
+alias la="ls -A"
+alias l="ls -lh"
+alias ll="ls -Alh"
+
+# grep
+alias grep="grep --color=auto"
+
+# pnpm
+alias pn="pnpm"
