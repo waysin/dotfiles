@@ -27,3 +27,4 @@ bind 'set show-all-if-ambiguous on'
 
 # Set front-end environment
 [[ -x ~/.local/share/pnpm/pnpm ]] && export PATH=~/.local/share/pnpm:${PATH}
+

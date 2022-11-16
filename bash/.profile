@@ -9,3 +9,4 @@ if [[ -n ${WSL_DISTRO_NAME} ]]; then
 else
     export ALL_PROXY=socks5://localhost:10808
 fi
+
